@@ -1,0 +1,40 @@
+{
+  "employeDetails": [
+    {
+      "name": "Gaurav Kumar",
+      "age": "20",
+      "address": "Bihar",
+      "salary": "150000",
+      "department": "Developer",
+      "isMarried": false,
+      "id": 1
+    },
+    {
+      "name": "Gulshan Kumar",
+      "age": "20",
+      "address": "Bihar",
+      "salary": "1800000",
+      "department": "Placement",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "name": "Raushan Kumar",
+      "age": "23",
+      "address": "Bihar",
+      "salary": "150000",
+      "department": "Technical",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "name": "Amit Gupta",
+      "age": "22",
+      "address": "Bihar",
+      "salary": "100000",
+      "department": "Technical",
+      "isMarried": false,
+      "id": 4
+    }
+  ]
+}
